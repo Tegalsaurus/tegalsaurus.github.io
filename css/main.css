@@ -37,20 +37,6 @@ a:hover {
   color: gray;
 }
 
-a:link {
-  font-family: Arial, sans-serif;
-  text-align: center, inline;
-  display: inline;
-}
-
-a {
-  color: white;
-}
-
-a:hover {
-  color: gray;
-}
-
 a:link2 {
   font-family: Arial, sans-serif;
   text-align: center, inline;
