@@ -15,9 +15,9 @@ h1 {
   color: white;
   cursor: default;
   font-size: 70px;
-  font-weight: 500;
+  font-weight: 1000;
   text-align: center;
-  font-family: Times , sans-serif;
+  font-family: Arial , sans-serif;
 }
 
 p {
