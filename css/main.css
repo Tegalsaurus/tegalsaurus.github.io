@@ -21,29 +21,7 @@ h1 {
   font-family: Arial, sans-serif;
 }
 
-li {
-  color: white;
-  cursor: default;
-  font-size: 30px;
-  display: inline;
-  text-align: center;
-}
 
-a {
-  color: white;
-  font-family: Arial, sans-serif;
-}
 
-a:hover {
-  color: gray;
-  font-family: Arial, sans-serif;
-}
 
-a:link2 {
-  font-family: Arial, sans-serif;
-  text-align: center;
-  display: inline;
-  position: relative;
-  bottom: 20px;
-}
 
