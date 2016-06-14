@@ -37,12 +37,12 @@ a {
   color: white;
 }
 
-a {
-  color: white;
-}
-
 a:hover {
   color: gray;
+}
+
+a {
+  color: white;
 }
 
 a:hover {
