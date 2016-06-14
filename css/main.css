@@ -44,6 +44,7 @@ a:hover {
 a:link {
   font-family: Arial, sans-serif;
   text-align: center;
+  display: inline;
 }
 
 a {
@@ -57,5 +58,6 @@ a:hover {
 a:link2 {
   font-family: Arial, sans-serif;
   text-align: center;
+  display: inline;
 }
 
