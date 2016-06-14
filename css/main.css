@@ -39,7 +39,9 @@ a:hover {
 
 a:link2 {
   font-family: Arial, sans-serif;
-  text-align: center, inline;
+  text-align: center;
   display: inline;
+  position: relative;
+  bottom: 20px;
 }
 
