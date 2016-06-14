@@ -48,7 +48,7 @@ a:hover {
 
 a:link {
   font-family: Arial, sans-serif;
-  text-align: center;
+  text-align: center, inline;
   display: inline;
 }
 
@@ -62,7 +62,7 @@ a:hover {
 
 a:link2 {
   font-family: Arial, sans-serif;
-  text-align: center;
+  text-align: center, inline;
   display: inline;
 }
 
