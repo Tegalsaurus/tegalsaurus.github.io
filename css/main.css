@@ -31,10 +31,12 @@ li {
 
 a {
   color: white;
+  font-family: Arial, sans-serif;
 }
 
 a:hover {
   color: gray;
+  font-family: Arial, sans-serif;
 }
 
 a:link2 {
