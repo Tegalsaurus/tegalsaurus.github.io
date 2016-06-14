@@ -23,7 +23,7 @@ h1 {
 
 .links {
   position: inline;
-  text-align: center;
+  text-align: center, inline;
 }
 
 
