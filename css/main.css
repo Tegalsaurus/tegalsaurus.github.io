@@ -7,6 +7,10 @@ img src {
   position: center;
 }
 
+img-circle {
+    border-radius: 50%;
+}
+
 h1 {
   color: white;
   cursor: default;
