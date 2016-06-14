@@ -9,8 +9,7 @@ img src {
 
 .img-circle {
     border-radius: 50%;
-    margin-left: 50%;
-    margin-right: 50%;
+    position: center;
 }
 
 h1 {
