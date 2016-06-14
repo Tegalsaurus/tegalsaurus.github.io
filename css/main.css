@@ -1,5 +1,5 @@
 * {
-  margin: 20px;
+  margin: 30px;
   padding: 0;
 }
 
@@ -23,7 +23,7 @@ h1 {
 p {
   color: white;
   cursor: default;
-  font-size: 18px;
+  font-size: 25px;
   font-weight: 200;
   text-align: center;
   font-family: Arial, sans-serif;
