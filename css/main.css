@@ -21,13 +21,10 @@ h1 {
   font-family: Arial, sans-serif;
 }
 
-.github-link {
-  position: center;
+.links {
+  position: inline;
 }
 
-.youtube-link {
-  position: center;
-}
 
 
 
