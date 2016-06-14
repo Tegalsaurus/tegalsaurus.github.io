@@ -33,3 +33,11 @@ li {
   text-align: center;
 }
 
+a:link {
+  color: white;
+}
+
+a:hover {
+  color: gray;
+}
+
