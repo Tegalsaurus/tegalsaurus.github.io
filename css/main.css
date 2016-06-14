@@ -37,6 +37,14 @@ a {
   color: white;
 }
 
+a {
+  color: white;
+}
+
+a:hover {
+  color: gray;
+}
+
 a:hover {
   color: gray;
 }
