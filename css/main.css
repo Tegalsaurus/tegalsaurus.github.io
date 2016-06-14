@@ -9,7 +9,6 @@ img src {
 
 .img-circle {
     border-radius: 50%;
-    outline: black;
 }
 
 h1 {
@@ -18,7 +17,7 @@ h1 {
   font-size: 70px;
   font-weight: 500;
   text-align: center;
-  font-family: , sans-serif;
+  font-family: Times , sans-serif;
 }
 
 p {
