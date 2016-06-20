@@ -3,6 +3,9 @@
   padding: 0px;
 }
 
+html {
+  max-height: 100%;
+}
 
 .logo {
   border-radius: 50%;
