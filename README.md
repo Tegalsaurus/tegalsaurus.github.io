@@ -1,1 +1,0 @@
-# tegalsaurus.github.io
